@@ -3,8 +3,7 @@
 Built an ETL data pipeline that extracts state-level economic data from the last decade using BLS, Census, and BEA API's. Transfered data to a database in Microsoft SQL Server and connected the server to PowerBI to create a user interactive dashboard. The dashboard is filtered by 7 metrics over 10 years.
 
 For code to work, user must obtain their own API key. To view pbix file, user must have Microsoft PowerBI installed. URL to launch dashboard: ecodashboard.streamlit.app.
-[Launch dashboard here.](https://github.com/mazinsafer/Ecoproj/blob/master/ecodashboard.streamlit.app
-)
+[Launch dashboard here.](https://github.com/mazinsafer/Ecoproj/blob/master/ecoproj.py)
 
 ## Overview
 
