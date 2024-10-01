@@ -15,7 +15,7 @@ The time period between the early 2010's into present time is an intresting time
      
 2. Median Household Income: shows how wealth is distributed and whether people’s living standards are improving
 
-3. Cost of Living:  measures the average cost of essential goods and services, such as housing, food, healthcare, and transportation, relative to a base (often 100). Affects purchasing power and the real value of wages.
+3. Cost of Living:  measures the average cost of essential goods and services, such as housing, food, healthcare, and transportation, relative to a base (often 100). Affects purchasing power and the real value of wages
    - Formula: (∑(Price of good/service*weight))/(Total Weights)
 
 4. Poverty Rate: poverty rate represents the percentage of the population whose income falls below the poverty threshold, reveals economic inequality and the financial challenges faced by a significant portion of the population
